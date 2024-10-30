@@ -154,7 +154,6 @@
             <a href="https://testnet.humanity.org/login?ref=dune2" class="airdrop-button">Humanity Airdrop</a>
             <a href="https://https://app.getgrass.io/register/?referralCode=m7fD-GDc9pkAQ4f" class="airdrop-button">grass Airdrop</a>
             <a href="https://app.gradient.network/signup?code=NUKI0P" class="airdrop-button">Gradient Airdrop</a>
-            <a href="https://t.me/Tomarket_ai_bot/app?startapp=0002t8Ek" class="airdrop-button">Tomarket Bot Airdrop</a>
             <a href="https://app.nodepay.ai/register?ref=IPbXxRdYeghzDhT" class="airdrop-button">NodePay Airdrop</a>
             <a href="https://t.me/catsgang_bot/join?startapp=go_yFPGC86IeQg860ZagK" class="airdrop-button">CatsGang Bot Airdrop</a>
             <a href="https://t.me/major/start?startapp=5834702018" class="airdrop-button">Major Airdrop</a>
